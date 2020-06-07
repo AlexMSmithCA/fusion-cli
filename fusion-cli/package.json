@@ -1,7 +1,7 @@
 {
   "name": "fusion-cli",
   "description": "CLI",
-  "version": "0.0.0-monorepo",
+  "version": "2.17.2",
   "bin": {
     "fusion": "bin/cli.js"
   },
@@ -59,9 +59,9 @@
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.12.1",
     "eslint": "^6.8.0",
-    "eslint-config-fusion": "0.0.0-monorepo",
+    "eslint-config-fusion": "6.2.0",
     "flow-bin": "^0.109.0",
-    "fusion-core": "0.0.0-monorepo",
+    "fusion-core": "2.2.1",
     "request-promise": "^4.2.4"
   },
   "engines": {
@@ -83,7 +83,7 @@
   "homepage": "https://fusionjs.com/api/fusion-cli",
   "license": "MIT",
   "peerDependencies": {
-    "fusion-core": "0.0.0-monorepo",
+    "fusion-core": "2.3.0",
     "graphql": "*",
     "react": "*",
     "react-dom": "*"
