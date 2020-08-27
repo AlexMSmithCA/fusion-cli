@@ -1,3 +1,0 @@
-fragment UserFragment on User {
-  firstName
-}

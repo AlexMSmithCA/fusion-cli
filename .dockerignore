@@ -1,6 +1,0 @@
-# Top-level node_modules
-node_modules
-# Package top-level node_modules
-*/node_modules
-# Rush node_modules
-common/**/node_modules

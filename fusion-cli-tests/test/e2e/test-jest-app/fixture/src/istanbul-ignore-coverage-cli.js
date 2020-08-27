@@ -1,3 +1,0 @@
-// @noflow
-
-export default function() {}

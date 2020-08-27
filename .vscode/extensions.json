@@ -1,6 +1,0 @@
-{
-  "recommendations": [
-    "dbaeumer.vscode-eslint",
-    "flowtype.flow-for-vscode",
-  ]
-}
